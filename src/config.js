@@ -1,3 +1,3 @@
 export default {
-  API_ENDPOINT: 'https://desolate-meadow-95722.herokuapp.com/api'
+  API_ENDPOINT: 'https://immense-island-69959.herokuapp.com/api'
 }
